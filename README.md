@@ -1,6 +1,6 @@
-# wavesurfer
+# Wavesurfer using Vuejs
 
-> A Vue.js project
+> A Wavesurfer Vue Component
 
 ## Build Setup
 
